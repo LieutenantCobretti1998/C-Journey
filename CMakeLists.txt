@@ -7,4 +7,5 @@ add_executable(c___journey main.cpp
         "variables and constants/variables.cpp"
         "variables and constants/variables.cpp"
         "variables and constants/challenge6.cpp"
-        "variables and constants/constants.cpp")
+        "variables and constants/constants.cpp"
+        "arrays and vectors/challenge.cpp")
