@@ -78,7 +78,8 @@ int main() {
     std::cout << "\nvector1 after modification:" << std::endl;
     std::cout << "Element at index 0: " << vector1.at(0) << std::endl;
     std::cout << "Element at index 1: " << vector1.at(1) << std::endl;
-
+    float numbers[0];  // Allowed in GCC as a non-standard extension
+    std::cout << "Array size: " << sizeof(numbers) << std::endl;  // Output: 0
     return 0;
 }
 
