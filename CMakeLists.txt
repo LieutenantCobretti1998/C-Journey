@@ -11,4 +11,7 @@ add_executable(c___journey main.cpp
         "arrays and vectors/challenge.cpp"
         "statements and operators/increment_decrement_operators.cpp"
         "statements and operators/mixedexpressions.cpp"
-        "variables and constants/relation.cpp")
+        "variables and constants/relation.cpp"
+        "Program Flow/for_loop.cpp"
+        "Program Flow/range_based_loop.cpp"
+)
